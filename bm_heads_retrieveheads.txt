@@ -1,0 +1,4 @@
+<?php 
+include("bm_session.php");
+
+?>
